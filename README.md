@@ -20,8 +20,9 @@ npm
 
 ### Installation
 1. Clone the repository:
+* HTTPS
   ```bash
-  $ git clone
+  $ git clone https://github.com/FexMass/cialdnb.git
   ```
 
 ## Install the dependencies for both the frontend and backend:
