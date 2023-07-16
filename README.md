@@ -1,5 +1,7 @@
 # DuckDuckGo 
+
 <br>
+
 ### Introduction
 This is a full-stack application that utilizes React.js on the client-side and Nest.js on the server-side. 
 The application interacts with the DuckDuckGo API, fetching results based on the user's input and displaying them. 
@@ -77,4 +79,6 @@ This application includes test suites for the frontend (React components, Redux 
 $ cd ../backend
 $ npm run test
 ```
+<br>
 
+* Author <b>Massimo Gruicic<b>
