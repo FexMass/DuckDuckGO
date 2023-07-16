@@ -8,7 +8,7 @@ The application interacts with the DuckDuckGo API, fetching results based on the
 It supports real-time search features and offers a seamless user experience with instant and responsive results.
 
 ### Tech Stack
-Front-End: React.js with TypeScript
+Front-End: React.js/Vite with TypeScript, pure css and MaterialUI 
 State Management: Redux with Redux Toolkit
 Backend: Nest.js with Axios for HTTP requests
 
