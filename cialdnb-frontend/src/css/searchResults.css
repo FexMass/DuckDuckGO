@@ -1,0 +1,8 @@
+.link-style {
+  text-decoration: none;
+  color: #3f51b5; /* You can choose the color that best matches your design */
+}
+
+.link-style:hover {
+  text-decoration: underline;
+}

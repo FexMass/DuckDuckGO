@@ -1,0 +1,9 @@
+.history-sidebar {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 20%; /* or however wide you want the sidebar to be */
+  overflow-y: auto; /* if you want a scrollbar for overflow */
+  background: #f5f5f5; /* or whatever color you want */
+  /* Add additional styling as needed */
+}
