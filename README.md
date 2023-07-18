@@ -72,7 +72,7 @@ npm
 <br>
 
 ## Testing
-This application includes test suites for the frontend (React components, Redux actions, and reducers) and backend (Nest.js services and controllers).
+This application includes test suites for the backend (Nest.js services and controllers).
 
 ### NestJS Backend
 ```bash
